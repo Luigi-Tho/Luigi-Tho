@@ -2,8 +2,7 @@
 
 Hello, newcomer. My name is Luigi-Tho.
 I am an aspiring game developer.
-I know the basics of c++, a bit of c#, and I am learning Python as well.
-I also know a tiny bit of HTML/CSS/JavaScript but I don't talk about that.
+I have worked on many games but sometimes you lose motivation to work on projects and you want to start new ones.
 I am currently working on a few games that you can find in my repositories.
 
 ### Languages I Know
