@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my Profile!
 
-<!--
-**Luigi-Tho/Luigi-Tho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, newcomer. My name is Luigi-Tho.
+I am an aspiring game developer.
+I know the basics of c++, a bit of c#, and I am learning Python as well.
+I also know a tiny bit of HTML/CSS/JavaScript but I don't talk about that.
+I am currently working on a few games that you can find in my repositories.
 
-Here are some ideas to get you started:
+### Languages I Know
+- C++ (the basics)
+- A bit of C#
+- A bit of HTML/CSS/JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Games I am working on
+- Turn-based RPG with a street fighter style
+- RPG featuring a girl on a quest to save a prince
+- A racing game made with OpenGL
