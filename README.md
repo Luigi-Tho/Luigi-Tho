@@ -15,3 +15,7 @@ I am currently working on some stuff that you can find in my repositories.
 - Turn-based RPG with a street fighter style
 - RPG about a girl on a quest to save a prince
 - Another project that's in its very, very early stages
+
+### Other projects I've been working on
+- My own custom virtual assistant
+- An app that gets school assignments from every app that your school uses and lists them in one place (in the planning stages).
