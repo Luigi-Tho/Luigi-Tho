@@ -8,9 +8,10 @@ I am currently working on a few games that you can find in my repositories.
 ### Languages I Know
 - C++ (the basics)
 - A bit of C#
-- A bit of HTML/CSS/JavaScript
+- The tiniest bit of HTML/CSS/JavaScript
+- A bit of Python
 
 ### Games I am working on
 - Turn-based RPG with a street fighter style
-- RPG featuring a girl on a quest to save a prince
-- A racing game made with OpenGL
+- RPG about a girl on a quest to save a prince
+- Another project that's in its very, very early stages
