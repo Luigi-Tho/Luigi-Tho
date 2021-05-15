@@ -2,7 +2,7 @@
 
 Hello, newcomer. My name is Luigi-Tho.
 I am an aspiring game developer.
-I have worked on many games but sometimes you lose motivation to work on projects and you want to start new ones.
+I have worked on many games but sometimes I lose motivation to work on projects and want to start new ones.
 I am currently working on a few games that you can find in my repositories.
 
 ### Languages I Know
