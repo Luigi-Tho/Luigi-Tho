@@ -1,9 +1,7 @@
 # Welcome to my Profile!
 
-Hello, newcomer. My name is Luigi-Tho.
-I am an aspiring game developer.
-I have worked on many side projects in my spare time.
-I am currently working on some stuff that you can find in my repositories.
+Hello. My name is Raena. I am a student studying Computer Science.
+The plan is to eventually start my own company and solve people's software problems with code (or make video games, I'm not sure yet).
 
 ### Languages I Know
 - C++
